@@ -1,3 +1,4 @@
 name : samsung F41
 Ram : 6GB
 storage : 128GB
+camara : 64pxl
