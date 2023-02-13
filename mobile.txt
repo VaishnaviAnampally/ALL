@@ -1,9 +1,0 @@
-name : samsung F41
-Ram : 6GB
-storage : 128GB
-camara : 64pxl
-
-Ram : 4GB
-
-Ram : 8GB
-cost : 15000
