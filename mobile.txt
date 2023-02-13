@@ -7,3 +7,5 @@ Ram : 4GB
 
 Ram : 8GB
 cost : 15000
+
+cost : 20000
